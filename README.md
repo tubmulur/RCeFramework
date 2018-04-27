@@ -48,12 +48,12 @@ window section div.body.volume<br/>
 :position->elementView<br/>
 \<window class="flex-full"\><br/>
 	\<header\>\</header\><br/>
-	\<section\><br/>
+	\<section\>
 		\<form class="header controls"\>
 			\<element url="///"\>\</element\>
 		\</form\><br/>
 		\<div class="body volume"\>
-		\</div\><br/>
+		\</div\>
 	\</section\><br/>
 \</window\><br/>
 <br/>
