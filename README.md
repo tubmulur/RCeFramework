@@ -1,7 +1,7 @@
 # RCeFramework
-/\*/\\<br/>
+/\*/\\\<br/>
  (C) 2006-2018 RCe.Framework I.S.Zirinskiy, E.Y.Shapovalova, A.A.Chekmarev<br/>
-\*\//<br/>
+\\*\//<br/>
 <br/>
 Consists of 3 classic structure elements:<br/>
 # Js<br/>
