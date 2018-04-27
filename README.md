@@ -37,22 +37,22 @@ window section div.body.volume<br/>
 	{<br/>
 	}<br/>
 # layout<br/>
-<window class="flex-full"><br/>
-	<header></header><br/>
-	<element class="card" url="///"><br/>
-		<header></header><br/>
-	</element><br/>
-</window><br/>
+\<window class="flex-full"\><br/>
+	\<header\>\</header\><br/>
+	\<element class="card" url="///"\><br/>
+		\<header\>\</header\><br/>
+	\</element\><br/>
+\</window\><br/>
 <br/>
 :position->elementView<br/>
-<window class="flex-full"><br/>
-	<header></header><br/>
-	<section><br/>
-		<form class="header controls"><br/>
-			<element url="///"></element><br/>
-		</form><br/>
-		<div class="body volume"><br/>
-		</div><br/>
-	</section><br/>
-</window><br/>
+\<window class="flex-full"\><br/>
+	\<header\>\</header\><br/>
+	\<section\><br/>
+		\<form class="header controls"\><br/>
+			\<element url="///"\>\</element\><br/>
+		\</form\><br/>
+		\<div class="body volume"\><br/>
+		\</div\><br/>
+	\</section\><br/>
+\</window\><br/>
 <br/>
