@@ -37,10 +37,11 @@ window section div.body.volume<br/>
 	{<br/>
 	}<br/>
 # layout<br/>
+:position->elementsCollection<br/>
 \<window class="flex-full"\><br/>
 	\<header\>\</header\><br/>
-	\<element class="card" url="///"\><br/>
-		\<header\>\</header\><br/>
+	\<element class="card" url="///"\>
+		\<header\>\</header\>
 	\</element\><br/>
 \</window\><br/>
 <br/>
@@ -48,10 +49,10 @@ window section div.body.volume<br/>
 \<window class="flex-full"\><br/>
 	\<header\>\</header\><br/>
 	\<section\><br/>
-		\<form class="header controls"\><br/>
-			\<element url="///"\>\</element\><br/>
+		\<form class="header controls"\>
+			\<element url="///"\>\</element\>
 		\</form\><br/>
-		\<div class="body volume"\><br/>
+		\<div class="body volume"\>
 		\</div\><br/>
 	\</section\><br/>
 \</window\><br/>
