@@ -4,10 +4,40 @@
 \*\//
 
 Consists of 3 classic structure elements:
-Js
-Css
+#Js
+:position->showAll
+:position->elementView
+:action->upadateElement(
+	[
+	url:url
+	]
+);
+#Css
+/*
+window 
+	{
+	{
+*/
+window header
+	{
+	}
+window element.card
+	{
+	}
 
-layout
+window section
+	{
+	}
+window section form
+	{
+	}
+window section form element
+	{
+	}
+window section div.body.volume
+	{
+	}
+#layout
 <window class="flex-full">
 	<header></header>
 	<element class="card" url="///">
