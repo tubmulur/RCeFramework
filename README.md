@@ -1,17 +1,17 @@
 # RCeFramework
-/*/\\
- (C) 2006-2018 RCe.Framework I.S.Zirinskiy, E.Y.Shapovalova, A.A.Chekmarev
-\*\//
-
-Consists of 3 classic structure elements:
-#Js
-:position->showAll
-:position->elementView
-:action->upadateElement(
-	[
-	url:url
-	]
-);
+/*/\\<br/>
+ (C) 2006-2018 RCe.Framework I.S.Zirinskiy, E.Y.Shapovalova, A.A.Chekmarev<br/>
+\*\//<br/>
+<br/>
+Consists of 3 classic structure elements:<br/>
+#Js<br/>
+:position->showAll<br/>
+:position->elementView<br/>
+:action->upadateElement(<br/>
+	[<br/>
+	url:url<br/>
+	]<br/>
+);<br/>
 #Css
 /*
 window 
