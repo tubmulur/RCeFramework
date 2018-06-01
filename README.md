@@ -36,6 +36,15 @@ window section form element<br/>
 window section div.body.volume<br/>
 	{<br/>
 	}<br/>
+dj<br/>
+	{<br/>
+	}<br/>
+client dancer<br/>
+	{<br/>
+	}<br/>
+client relaxer
+	{<br/>
+	}<br/>
 # layout<br/>
 :position->elementsCollection<br/>
 \<window class="flex-full"\><br/>
