@@ -49,6 +49,8 @@ client relaxer
 	{<br/>
 	}<br/>
 # layout<br/>
+#------------------------------------------------------------
+
 :position->elementsCollection<br/>
 \<window class="flex-full"\><br/>
 	\<header\>\</header\><br/>
@@ -57,6 +59,7 @@ client relaxer
 	\</element\><br/>
 \</window\><br/>
 <br/>
+#------------------------------------------------------------
 :position->elementView<br/>
 \<window class="flex-full"\><br/>
 	\<header\>\</header\><br/>
@@ -68,4 +71,5 @@ client relaxer
 		\</div\><br/>
 	\</section\><br/>
 \</window\><br/>
+#------------------------------------------------------------
 <br/>
