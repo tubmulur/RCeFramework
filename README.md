@@ -55,9 +55,10 @@ client relaxer
 \<window class="flex-full"\><br/>
 	\<header\>\</header\><br/>
 	\<element class="card" url="///"\>
-		\<header\>\</header\>
+		\<header\>\</header\><br/>
+		\<sensors\>\<\/sensors\><br/>
 	\</element\><br/>
-	\<sensors\>\<\/sensors\><br/>
+	
 \</window\><br/>
 <br/>
 #------------------------------------------------------------<br/>
