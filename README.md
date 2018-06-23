@@ -57,6 +57,7 @@ client relaxer
 	\<element class="card" url="///"\>
 		\<header\>\</header\>
 	\</element\><br/>
+	\<sensors\>\<\/sensors\><br/>
 \</window\><br/>
 <br/>
 #------------------------------------------------------------<br/>
@@ -69,6 +70,7 @@ client relaxer
 		\</form\><br/>
 		\<div class="body volume"\>
 		\</div\><br/>
+		\<sensors\>\<\/sensors\><br/>
 	\</section\><br/>
 \</window\><br/>
 #------------------------------------------------------------
